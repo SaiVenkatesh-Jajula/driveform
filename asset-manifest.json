@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/driveform/static/css/main.69db334e.css",
+    "main.js": "/driveform/static/js/main.b6021c87.js",
+    "static/js/787.0ba1cde0.chunk.js": "/driveform/static/js/787.0ba1cde0.chunk.js",
+    "index.html": "/driveform/index.html",
+    "main.69db334e.css.map": "/driveform/static/css/main.69db334e.css.map",
+    "main.b6021c87.js.map": "/driveform/static/js/main.b6021c87.js.map",
+    "787.0ba1cde0.chunk.js.map": "/driveform/static/js/787.0ba1cde0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69db334e.css",
+    "static/js/main.b6021c87.js"
+  ]
+}
